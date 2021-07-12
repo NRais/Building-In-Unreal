@@ -960,3 +960,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.12-23.01.45:748][825]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Player_CharacterD2C4D66E4235C33B3BBFC195589F2664.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Player_Character.uasset'
 [2021.07.12-23.01.45:768][825]AssetCheck: New page: Asset Save: Base_Player_Character
 [2021.07.12-23.01.45:768][825]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Player_Character.Base_Player_Character
+[2021.07.12-23.03.33:800][284]LogSlate: Window 'Base_Player_Character' being destroyed
+[2021.07.12-23.03.33:806][284]LogSlate: Window 'Base_Player_Character' being destroyed
+[2021.07.12-23.03.33:809][284]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-23.03.33:809][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-23.03.36:104][398]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Base_Pickup.Base_Pickup
+[2021.07.12-23.04.36:644][139]BlueprintLog: New page: Compile Base_Pickup
+[2021.07.12-23.04.36:687][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.07.12-23.05.23:952][650]BlueprintLog: New page: Compile Base_Pickup
+[2021.07.12-23.05.23:998][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.07.12-23.05.24:619][680]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Pickup61C2ECFE44530562133E7EB7ED3886BE.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Pickup.uasset'
+[2021.07.12-23.05.24:638][680]AssetCheck: New page: Asset Save: Base_Pickup
+[2021.07.12-23.05.24:638][680]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Pickup.Base_Pickup
