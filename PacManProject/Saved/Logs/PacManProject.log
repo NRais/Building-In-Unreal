@@ -1074,3 +1074,100 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.12-23.29.09:706][469]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Level083CC6025407272D7197B2A85942091F3.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/Level0.umap'
 [2021.07.12-23.29.09:721][469]AssetCheck: New page: Asset Save: Level0
 [2021.07.12-23.29.09:721][469]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level0.Level0
+[2021.07.12-23.30.07:870][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.30.39:225][707]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry38)
+[2021.07.12-23.30.47:427][182]LogEditorViewport: Clicking on Actor (LMB): Base_Enemy_C (Base_Enemy)
+[2021.07.12-23.30.47:428][182]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.12-23.30.50:158][329]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.12-23.30.51:624][411]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.12-23.31.20:182][108]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.12-23.31.22:487][245]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry24)
+[2021.07.12-23.31.23:536][305]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry54)
+[2021.07.12-23.31.24:160][341]LogEditorViewport: Clicking on Actor (LMB): Base_Enemy_C (Base_Enemy)
+[2021.07.12-23.31.34:205][920]LogEditorViewport: Clicking on Actor (LMB): Base_Enemy_C (Base_Enemy2)
+[2021.07.12-23.31.36:680][ 66]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry54)
+[2021.07.12-23.31.37:381][105]LogEditorViewport: Clicking on Actor (LMB): Base_Enemy_C (Base_Enemy2)
+[2021.07.12-23.31.38:250][152]LogEditorViewport: Clicking on Actor (LMB): Base_Enemy_C (Base_Enemy2)
+[2021.07.12-23.31.46:266][625]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry24)
+[2021.07.12-23.31.47:183][677]LogEditorViewport: Clicking on Actor (LMB): Base_Enemy_C (Base_Enemy2)
+[2021.07.12-23.31.47:184][677]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.12-23.31.56:318][210]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry55)
+[2021.07.12-23.31.57:185][256]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry70)
+[2021.07.12-23.31.58:612][339]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry56)
+[2021.07.12-23.31.59:581][394]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry55)
+[2021.07.12-23.31.59:907][411]Cmd: DELETE
+[2021.07.12-23.31.59:907][411]Cmd: ACTOR DELETE
+[2021.07.12-23.31.59:971][411]LogEditorActor: Deleted Actor: Base_Geometry_C
+[2021.07.12-23.32.00:042][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.07.12-23.32.00:054][411]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2021.07.12-23.32.00:879][455]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry54)
+[2021.07.12-23.32.02:510][550]Cmd: EDIT COPY
+[2021.07.12-23.32.05:338][719]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.32.07:356][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.32.07:817][865]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry54)
+[2021.07.12-23.32.12:311][131]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry56)
+[2021.07.12-23.32.13:912][225]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry54)
+[2021.07.12-23.32.22:392][729]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.32.27:371][ 12]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.32.28:113][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.32.29:253][124]LogEditorViewport: Clicking on Actor (LMB): Base_Enemy_C (Base_Enemy2)
+[2021.07.12-23.32.33:609][375]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.12-23.32.35:497][487]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.32.38:539][664]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.32.39:878][744]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry55)
+[2021.07.12-23.32.40:703][791]Cmd: EDIT COPY
+[2021.07.12-23.32.41:203][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.32.41:442][834]Cmd: EDIT PASTE
+[2021.07.12-23.32.43:624][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.33.46:796][728]LogEditorViewport: Clicking Background
+[2021.07.12-23.33.53:130][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.07.12-23.33.54:992][ 94]LogSlate: Window 'Save Content' being destroyed
+[2021.07.12-23.33.55:917][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.07.12-23.33.56:048][143]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Level0633375884805DA5A44394B9445375951.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/Level0.umap'
+[2021.07.12-23.33.56:074][143]AssetCheck: New page: Asset Save: Level0
+[2021.07.12-23.33.56:074][143]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level0.Level0
+[2021.07.12-23.33.57:014][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.07.12-23.33.57:048][191]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level0.Level0
+[2021.07.12-23.33.57:048][191]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.12-23.33.57:048][191]LightingResults: New page: Lighting Build
+[2021.07.12-23.33.57:048][191]LoadErrors: New page: Loading map: Level0.umap
+[2021.07.12-23.33.57:050][191]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-23.33.57:051][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-23.33.57:051][191]MapCheck: New page: Map Check
+[2021.07.12-23.33.57:051][191]LightingResults: New page: Lighting Build
+[2021.07.12-23.33.57:070][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.12-23.33.57:086][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.07.12-23.33.57:118][191]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level0'.
+[2021.07.12-23.33.57:119][191]LogAIModule: Creating AISystem for world Level0
+[2021.07.12-23.33.57:228][191]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.12-23.33.57:259][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.07.12-23.33.57:263][191]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.12-23.33.57:263][191]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2021.07.12-23.33.57:263][191]LogFileHelpers: Loading map 'Level0' took 0.215
+[2021.07.12-23.34.28:577][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.35.09:354][487]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry177)
+[2021.07.12-23.35.12:405][657]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.35.14:041][753]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.35.15:198][821]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.12-23.35.16:469][897]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.35.17:891][982]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry177)
+[2021.07.12-23.35.20:881][158]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry178)
+[2021.07.12-23.35.22:260][238]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry177)
+[2021.07.12-23.35.22:964][278]Cmd: DELETE
+[2021.07.12-23.35.22:964][278]Cmd: ACTOR DELETE
+[2021.07.12-23.35.22:979][278]LogEditorActor: Deleted Actor: Base_Geometry_C
+[2021.07.12-23.35.23:015][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.07.12-23.35.23:024][278]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2021.07.12-23.35.23:623][314]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry178)
+[2021.07.12-23.35.25:651][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.35.26:708][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.07.12-23.35.26:840][489]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Level0D6746BA2418AF259FAD823B766879650.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/Level0.umap'
+[2021.07.12-23.35.26:844][489]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2021.07.12-23.35.26:863][489]AssetCheck: New page: Asset Save: Level0
+[2021.07.12-23.35.26:863][489]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level0.Level0
