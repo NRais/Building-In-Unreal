@@ -972,3 +972,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.12-23.05.24:619][680]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Pickup61C2ECFE44530562133E7EB7ED3886BE.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Pickup.uasset'
 [2021.07.12-23.05.24:638][680]AssetCheck: New page: Asset Save: Base_Pickup
 [2021.07.12-23.05.24:638][680]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Pickup.Base_Pickup
+[2021.07.12-23.06.44:697][973]LogSlate: Window 'Base_Pickup' being destroyed
+[2021.07.12-23.06.44:712][973]LogSlate: Window 'Base_Pickup' being destroyed
+[2021.07.12-23.06.44:716][973]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-23.06.44:716][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-23.10.05:458][621]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Base_Enemy.Base_Enemy
+[2021.07.12-23.11.03:606][738]BlueprintLog: New page: Compile Base_Enemy
+[2021.07.12-23.11.03:654][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.07.12-23.12.04:251][673]BlueprintLog: New page: Compile Base_Enemy
+[2021.07.12-23.12.04:299][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.07.12-23.12.04:903][703]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Enemy254FECD440B27153A862979D47E9EF2A.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Enemy.uasset'
+[2021.07.12-23.12.04:925][703]AssetCheck: New page: Asset Save: Base_Enemy
+[2021.07.12-23.12.04:925][703]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Enemy.Base_Enemy
+[2021.07.12-23.13.36:853][355]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.12-23.13.39:935][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.07.12-23.13.39:937][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
+[2021.07.12-23.13.39:937][535]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Base_Enemy] ([1] browsable assets)...
+[2021.07.12-23.13.39:947][535]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Base_Enemy.Base_Enemy]
+[2021.07.12-23.13.39:947][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Base_Enemy]
+[2021.07.12-23.13.39:968][535]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Enemy_Auto3E0BC25AA4EAF4544DC95A380DDF24A17.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Base_Enemy_Auto3.uasset'
+[2021.07.12-23.13.39:969][535]LogFileHelpers: Auto-saving content packages took 0.032
+[2021.07.12-23.21.47:264][983]BlueprintLog: New page: Compile Base_Enemy
+[2021.07.12-23.21.47:332][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.07.12-23.21.48:026][ 11]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Enemy87D091E348B55B5A87202F8CEA5D737F.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Enemy.uasset'
+[2021.07.12-23.21.48:046][ 11]AssetCheck: New page: Asset Save: Base_Enemy
+[2021.07.12-23.21.48:046][ 11]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Enemy.Base_Enemy
+[2021.07.12-23.24.11:491][277]BlueprintLog: New page: Compile Base_Enemy
+[2021.07.12-23.24.11:546][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.07.12-23.24.12:073][300]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Enemy96EEC6084AA26C0EE3F50D8838EB9BDF.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Enemy.uasset'
+[2021.07.12-23.24.12:094][300]AssetCheck: New page: Asset Save: Base_Enemy
+[2021.07.12-23.24.12:094][300]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Enemy.Base_Enemy
+[2021.07.12-23.24.40:921][  0]LogEditorTransaction: Undo Delete current selection
+[2021.07.12-23.24.41:455][ 11]LogEditorTransaction: Undo Delete current selection
+[2021.07.12-23.25.09:036][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.07.12-23.25.09:038][225]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2021.07.12-23.25.09:039][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Base_Enemy] ([1] browsable assets)...
+[2021.07.12-23.25.09:074][225]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Base_Enemy.Base_Enemy]
+[2021.07.12-23.25.09:074][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Base_Enemy]
+[2021.07.12-23.25.09:143][225]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Enemy_Auto444B5438E49ADF336B532D5B153D3E352.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Base_Enemy_Auto4.uasset'
+[2021.07.12-23.25.09:145][225]LogFileHelpers: Auto-saving content packages took 0.107
+[2021.07.12-23.25.12:646][236]BlueprintLog: New page: Compile Base_Enemy
+[2021.07.12-23.25.12:707][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.07.12-23.25.13:509][256]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Enemy8BADF10649D9F8AA07ADE38A00C363C2.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Enemy.uasset'
+[2021.07.12-23.25.13:536][256]AssetCheck: New page: Asset Save: Base_Enemy
+[2021.07.12-23.25.13:536][256]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Enemy.Base_Enemy
+[2021.07.12-23.25.27:238][782]LogSlate: Window 'Base_Enemy' being destroyed
+[2021.07.12-23.25.27:251][782]LogSlate: Window 'Base_Enemy' being destroyed
+[2021.07.12-23.25.27:258][782]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-23.25.27:258][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-23.25.52:198][239]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.07.12-23.25.55:257][388]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2021.07.12-23.25.55:278][388]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-23.25.55:278][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-23.25.58:429][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Base_Geometry.Base_Geometry
+[2021.07.12-23.26.00:655][646]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2021.07.12-23.26.02:729][764]LogSlate: Window 'Base_Geometry' being destroyed
+[2021.07.12-23.26.02:743][764]LogSlate: Window 'Base_Geometry' being destroyed
+[2021.07.12-23.26.02:749][764]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-23.26.02:749][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-23.26.15:959][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.07.12-23.26.16:330][515]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level0.Level0
+[2021.07.12-23.26.16:349][515]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.12-23.26.16:349][515]LightingResults: New page: Lighting Build
+[2021.07.12-23.26.16:389][515]LoadErrors: New page: Loading map: Level0.umap
+[2021.07.12-23.26.16:391][515]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-23.26.16:391][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-23.26.16:392][515]MapCheck: New page: Map Check
+[2021.07.12-23.26.16:392][515]LightingResults: New page: Lighting Build
+[2021.07.12-23.26.16:411][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.12-23.26.16:453][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.07.12-23.26.16:457][515]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level0'.
+[2021.07.12-23.26.16:558][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.12-23.26.16:559][515]LogAIModule: Creating AISystem for world Level0
+[2021.07.12-23.26.16:593][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.07.12-23.26.16:597][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.12-23.26.16:597][515]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2021.07.12-23.26.16:597][515]LogFileHelpers: Loading map 'Level0' took 0.248
+[2021.07.12-23.27.58:152][349]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.27.58:408][360]Cmd: TRANSACTION UNDO
+[2021.07.12-23.27.58:408][360]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.12-23.27.58:776][371]Cmd: TRANSACTION UNDO
+[2021.07.12-23.27.58:777][371]LogEditorTransaction: Undo Set Location
+[2021.07.12-23.27.59:092][387]Cmd: TRANSACTION UNDO
+[2021.07.12-23.27.59:092][387]LogEditorTransaction: Undo Set Scale
+[2021.07.12-23.27.59:393][404]Cmd: TRANSACTION UNDO
+[2021.07.12-23.27.59:393][404]LogEditorTransaction: Undo Set Scale
+[2021.07.12-23.27.59:792][428]Cmd: TRANSACTION UNDO
+[2021.07.12-23.27.59:792][428]LogEditorTransaction: Undo Set Scale
+[2021.07.12-23.28.00:081][445]Cmd: TRANSACTION UNDO
+[2021.07.12-23.28.00:081][445]LogEditorTransaction: Undo Set Scale
+[2021.07.12-23.28.01:414][525]Cmd: TRANSACTION UNDO
+[2021.07.12-23.28.01:414][525]LogEditorTransaction: Undo Set Location
+[2021.07.12-23.28.02:075][564]Cmd: TRANSACTION UNDO
+[2021.07.12-23.28.02:075][564]LogEditorTransaction: Undo Create Actors
+[2021.07.12-23.28.02:077][564]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of invalid bounds (object: None)
+[2021.07.12-23.28.03:028][620]Cmd: TRANSACTION REDO
+[2021.07.12-23.28.03:028][620]LogEditorTransaction: Redo Create Actors
+[2021.07.12-23.28.03:044][620]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of invalid bounds (object: None)
+[2021.07.12-23.29.08:982][445]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.12-23.29.09:572][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.07.12-23.29.09:706][469]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Level083CC6025407272D7197B2A85942091F3.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/Level0.umap'
+[2021.07.12-23.29.09:721][469]AssetCheck: New page: Asset Save: Level0
+[2021.07.12-23.29.09:721][469]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level0.Level0
