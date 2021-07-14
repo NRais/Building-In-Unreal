@@ -2280,3 +2280,138 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.14-22.33.28:800][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
 [2021.07.14-22.33.28:817][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_56
 [2021.07.14-22.33.28:883][ 93]Cmd: SELECT NONE
+[2021.07.14-22.36.57:289][948]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Credits.Widget_Credits
+[2021.07.14-22.37.28:575][183]LogSlate: Window 'Widget_Credits' being destroyed
+[2021.07.14-22.37.28:629][183]LogSlate: Window 'Widget_Credits' being destroyed
+[2021.07.14-22.37.28:636][183]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-22.37.28:636][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-22.37.28:644][183]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-22.37.28:645][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-22.37.30:352][276]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_MainMenu.Widget_MainMenu
+[2021.07.14-22.38.22:582][938]LogSlate: Window 'Widget_MainMenu' being destroyed
+[2021.07.14-22.38.22:598][938]LogSlate: Window 'Widget_MainMenu' being destroyed
+[2021.07.14-22.38.22:601][938]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-22.38.22:601][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-22.38.22:609][938]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-22.38.22:609][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-22.39.27:834][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.07.14-22.39.36:401][336]LogContentBrowser: Attempting asset rename: ThirdPersonGameMode -> MainMenuGamemode
+[2021.07.14-22.39.36:421][336]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenuGamemode.SKEL_MainMenuGamemode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/ThirdPersonGameMode.PackageMetaData'
+[2021.07.14-22.39.36:421][336]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenuGamemode.MainMenuGamemode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/ThirdPersonGameMode.PackageMetaData'
+[2021.07.14-22.39.36:421][336]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Widgets/MainMenuGamemode.SKEL_MainMenuGamemode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Widgets/ThirdPersonGameMode.PackageMetaData'
+[2021.07.14-22.39.36:597][336]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MainMenuGamemode406755E24E6BF955E7FAB9BBF7123050.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/MainMenuGamemode.uasset'
+[2021.07.14-22.39.36:720][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.07.14-22.39.36:765][336]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.07.14-22.39.36:790][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.07.14-22.39.36:825][336]AssetCheck: New page: Asset Save: MainMenuGamemode
+[2021.07.14-22.39.36:825][336]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Widgets/MainMenuGamemode.MainMenuGamemode
+[2021.07.14-22.39.48:618][478]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.14-22.40.01:828][  3]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.07.14-22.40.01:941][  3]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MainMenu6116F6DE4C08E90ACF43D2BD9A4646A1.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2021.07.14-22.40.01:972][  3]AssetCheck: New page: Asset Save: MainMenu
+[2021.07.14-22.40.01:972][  3]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.07.14-22.40.03:399][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.07.14-22.40.03:510][ 80]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MainMenuC87E4CCE4826F2367F1A79A3BBDB785E.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2021.07.14-22.40.03:539][ 80]AssetCheck: New page: Asset Save: MainMenu
+[2021.07.14-22.40.03:539][ 80]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.07.14-22.40.05:183][173]LogEditorViewport: Clicking Background
+[2021.07.14-22.40.32:680][182]LogEditorViewport: Clicking Background
+[2021.07.14-22.40.48:863][745]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.14-22.40.48:873][745]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.07.14-22.40.48:889][745]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.07.14-22.40.53:464][ 20]LogContentBrowser: Attempting asset rename: NewBlueprint -> MenuController
+[2021.07.14-22.40.53:602][ 20]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.07.14-22.41.00:503][ 87]LogEditorViewport: Clicking on Actor (LMB): MusicControls_C (MusicControls)
+[2021.07.14-22.41.05:558][262]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Widgets/MenuController.MenuController
+[2021.07.14-22.41.08:540][341]BlueprintLog: New page: Compile MenuController
+[2021.07.14-22.41.08:735][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.07.14-22.41.09:003][345]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MenuController3C2D0C6946B465AB1DC74F9F01F55EE7.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/MenuController.uasset'
+[2021.07.14-22.41.09:025][345]AssetCheck: New page: Asset Save: MenuController
+[2021.07.14-22.41.09:025][345]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Widgets/MenuController.MenuController
+[2021.07.14-22.41.20:718][502]BlueprintLog: New page: Compile MenuController
+[2021.07.14-22.41.20:754][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.07.14-22.41.21:370][521]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MenuControllerE5119B1844777C023B6597A29B3D71B8.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/MenuController.uasset'
+[2021.07.14-22.41.21:387][521]AssetCheck: New page: Asset Save: MenuController
+[2021.07.14-22.41.21:387][521]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Widgets/MenuController.MenuController
+[2021.07.14-22.41.22:367][570]LogSlate: Window 'MenuController' being destroyed
+[2021.07.14-22.41.22:373][570]LogSlate: Window 'MenuController' being destroyed
+[2021.07.14-22.41.22:502][570]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-22.41.22:503][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-22.41.26:222][772]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.14-22.41.33:999][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.07.14-22.41.34:028][937]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MainMenu3B88F63B425AA59F064655BC8CC179F8.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2021.07.14-22.41.34:054][937]AssetCheck: New page: Asset Save: MainMenu
+[2021.07.14-22.41.34:054][937]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.07.14-22.41.44:917][970]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.14-22.41.44:928][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.14-22.41.44:928][970]PIE: New page: PIE session: MainMenu (15/07/2021, 10:41:44 pm)
+[2021.07.14-22.41.44:928][970]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.07.14-22.41.44:929][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000956s)
+[2021.07.14-22.41.44:930][970]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.14-22.41.44:930][970]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2021.07.14-22.41.44:930][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001990s)
+[2021.07.14-22.41.44:948][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.07.14-22.41.44:948][970]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.07.14-22.41.44:948][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.14-22.41.44:948][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.14-22.41.44:948][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.14-22.41.44:948][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.14-22.41.44:948][970]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.14-22.41.44:948][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.14-22.41.44:948][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.14-22.41.44:948][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.14-22.41.44:948][970]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.14-22.41.44:949][970]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.14-22.41.44:960][970]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.14-22.41.44:960][970]LogAudioMixer: Display: 1: FrontRight
+[2021.07.14-22.41.45:005][970]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.14-22.41.45:006][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.14-22.41.45:006][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.14-22.41.45:006][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.14-22.41.45:006][970]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.14-22.41.45:006][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.14-22.41.45:006][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.14-22.41.45:020][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.14-22.41.45:020][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.14-22.41.45:020][970]LogInit: FAudioDevice initialized.
+[2021.07.14-22.41.45:020][970]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2021.07.14-22.41.45:030][970]LogLoad: Game class is 'MainMenuGamemode_C'
+[2021.07.14-22.41.45:031][970]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.15-10.41.45
+[2021.07.14-22.41.45:031][970]LogWorld: Bringing up level for play took: 0.000303
+[2021.07.14-22.41.45:031][970]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.07.14-22.41.45:034][970]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.07.14-22.41.45:034][970]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.14-22.41.45:034][970]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.07.14-22.41.45:034][970]PIE: Server logged in
+[2021.07.14-22.41.45:035][970]PIE: Play in editor total start time 0.114 seconds.
+[2021.07.14-22.41.45:037][970]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.14-22.41.56:845][672]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.07.14-22.41.56:845][672]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.07.14-22.41.56:846][672]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level0
+[2021.07.14-22.41.56:846][672]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level0
+[2021.07.14-22.41.56:846][672]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.07.14-22.41.56:846][672]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-22.41.56:846][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-22.41.56:906][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.14-22.41.56:909][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.07.14-22.41.56:955][672]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level0'.
+[2021.07.14-22.41.56:956][672]LogAIModule: Creating AISystem for world Level0
+[2021.07.14-22.41.56:956][672]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.14-22.41.57:038][672]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.07.15-10.41.57
+[2021.07.14-22.41.57:038][672]LogWorld: Bringing up level for play took: 0.080991
+[2021.07.14-22.41.57:040][672]LogLoad: Took 0.194840 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level0)
+[2021.07.14-22.42.00:027][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.14-22.42.00:027][841]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.14-22.42.00:028][841]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.14-22.42.00:029][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-22.42.00:040][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.14-22.42.00:049][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.14-22.42.00:069][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.14-22.42.00:069][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.14-22.42.00:070][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.14-22.42.00:119][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.07.14-22.42.00:139][842]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.07.14-22.43.00:395][594]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.14-22.43.38:454][971]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.14-22.43.38:461][971]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.14-22.43.39:613][ 37]Cmd: SELECT NONE
