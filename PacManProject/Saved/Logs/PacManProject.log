@@ -4817,3 +4817,429 @@ Make sure 'Teleporter_C' has been compiled for  Get CanCharacterDie
 [2021.07.22-07.42.44:594][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.07.22-07.42.44:609][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2021.07.22-07.42.44:644][270]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.07.22-07.43.45:217][ 32]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.22-07.44.22:651][928]LogStaticMesh: Building static mesh SM_CustomMesh-01...
+[2021.07.22-07.44.22:811][928]LogStaticMesh: Built static mesh [0.16s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-01.SM_CustomMesh-01
+[2021.07.22-07.44.25:181][ 42]LogStaticMesh: Building static mesh SM_CustomMesh-02...
+[2021.07.22-07.44.25:223][ 42]LogStaticMesh: Built static mesh [0.04s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-02.SM_CustomMesh-02
+[2021.07.22-07.44.28:207][190]LogStaticMesh: Building static mesh SM_CustomMesh-03...
+[2021.07.22-07.44.28:269][190]LogStaticMesh: Built static mesh [0.06s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-03.SM_CustomMesh-03
+[2021.07.22-07.44.30:950][303]LogStaticMesh: Building static mesh SM_CustomMesh-06...
+[2021.07.22-07.44.30:981][303]LogStaticMesh: Built static mesh [0.03s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-06.SM_CustomMesh-06
+[2021.07.22-07.44.33:879][442]LogStaticMesh: Building static mesh SM_CustomMesh-10...
+[2021.07.22-07.44.33:912][442]LogStaticMesh: Built static mesh [0.03s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-10.SM_CustomMesh-10
+[2021.07.22-07.44.42:164][904]LogStaticMesh: Building static mesh SM_CustomMesh-11...
+[2021.07.22-07.44.42:186][904]LogStaticMesh: Built static mesh [0.02s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-11.SM_CustomMesh-11
+[2021.07.22-07.44.43:917][986]LogStaticMesh: Building static mesh SM_CustomMesh-12...
+[2021.07.22-07.44.43:937][986]LogStaticMesh: Built static mesh [0.02s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-12.SM_CustomMesh-12
+[2021.07.22-07.44.47:330][136]LogStaticMesh: Building static mesh SM_CustomMesh-17...
+[2021.07.22-07.44.47:355][136]LogStaticMesh: Built static mesh [0.03s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-17.SM_CustomMesh-17
+[2021.07.22-07.44.55:393][550]LogStaticMesh: Building static mesh SM_CustomMesh-20...
+[2021.07.22-07.44.55:419][550]LogStaticMesh: Built static mesh [0.03s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-20.SM_CustomMesh-20
+[2021.07.22-07.44.57:567][652]LogStaticMesh: Building static mesh SM_CustomMesh-19...
+[2021.07.22-07.44.57:613][652]LogStaticMesh: Built static mesh [0.05s] /Game/Magic_Circle_Creator/Meshes/SM_CustomMesh-19.SM_CustomMesh-19
+[2021.07.22-07.45.08:942][218]LogStaticMesh: Building static mesh SM_LearningRoomMesh-03...
+[2021.07.22-07.45.08:978][218]LogStaticMesh: Built static mesh [0.04s] /Game/Magic_Circle_Creator/Meshes/SM_LearningRoomMesh-03.SM_LearningRoomMesh-03
+[2021.07.22-07.45.28:557][150]LogEditorTransaction: Undo Modify Component Location
+[2021.07.22-07.47.35:821][311]BlueprintLog: New page: Compile Teleporter
+[2021.07.22-07.47.35:881][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.07.22-07.47.36:488][341]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/TeleporterC073E956445951EAAA10D8B7B2E7BB56.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Teleporter.uasset'
+[2021.07.22-07.47.36:506][341]AssetCheck: New page: Asset Save: Teleporter
+[2021.07.22-07.47.36:506][341]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Teleporter.Teleporter
+[2021.07.22-07.48.21:813][888]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/TeleporterDADF15544E6544BB34DA17A362AF92A0.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Teleporter.uasset'
+[2021.07.22-07.48.21:833][888]AssetCheck: New page: Asset Save: Teleporter
+[2021.07.22-07.48.21:833][888]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Teleporter.Teleporter
+[2021.07.22-07.48.26:833][135]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.48.31:710][426]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.48.32:435][468]Cmd: TRANSACTION UNDO
+[2021.07.22-07.48.32:435][468]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.22-07.48.33:110][493]Cmd: TRANSACTION UNDO
+[2021.07.22-07.48.33:110][493]LogEditorTransaction: Undo Set Rotation
+[2021.07.22-07.48.33:933][542]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.48.34:599][581]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.48.37:913][778]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.48.38:237][796]Cmd: TRANSACTION UNDO
+[2021.07.22-07.48.38:237][796]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.22-07.48.39:215][838]Cmd: TRANSACTION UNDO
+[2021.07.22-07.48.39:215][838]LogEditorTransaction: Undo Set Rotation
+[2021.07.22-07.48.39:989][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.48.40:588][919]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.48.43:371][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.48.43:630][ 98]Cmd: TRANSACTION UNDO
+[2021.07.22-07.48.43:630][ 98]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.22-07.48.44:156][113]Cmd: TRANSACTION UNDO
+[2021.07.22-07.48.44:156][113]LogEditorTransaction: Undo Set Rotation
+[2021.07.22-07.48.54:716][744]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.48.55:815][809]Cmd: TRANSACTION UNDO
+[2021.07.22-07.48.55:815][809]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.22-07.48.56:432][830]Cmd: TRANSACTION UNDO
+[2021.07.22-07.48.56:432][830]LogEditorTransaction: Undo Set Rotation
+[2021.07.22-07.48.57:490][893]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.48.58:915][977]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.49.03:138][229]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter)
+[2021.07.22-07.49.09:261][595]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.49.10:084][643]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter)
+[2021.07.22-07.49.15:819][974]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.49.16:735][ 27]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.49.22:275][357]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.49.27:602][669]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.49.48:536][817]BlueprintLog: New page: Compile Teleporter
+[2021.07.22-07.49.48:597][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.07.22-07.49.49:484][865]BlueprintLog: New page: Compile Teleporter
+[2021.07.22-07.49.49:540][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.07.22-07.49.49:963][882]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/TeleporterC23E8F1F4FB7C5DC1E2B2682E2A9D40C.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Teleporter.uasset'
+[2021.07.22-07.49.49:984][882]AssetCheck: New page: Asset Save: Teleporter
+[2021.07.22-07.49.49:984][882]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Teleporter.Teleporter
+[2021.07.22-07.50.46:850][139]BlueprintLog: New page: Compile Teleporter
+[2021.07.22-07.50.46:905][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.07.22-07.50.47:463][165]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Teleporter3D98E9D146719BC374724EA77392B9FD.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Teleporter.uasset'
+[2021.07.22-07.50.47:481][165]AssetCheck: New page: Asset Save: Teleporter
+[2021.07.22-07.50.47:481][165]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Teleporter.Teleporter
+[2021.07.22-07.51.11:406][388]BlueprintLog: New page: Compile Teleporter
+[2021.07.22-07.51.11:457][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.07.22-07.51.12:087][419]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Teleporter8C51CED24F1C147FA4B346B5BBAB5098.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Teleporter.uasset'
+[2021.07.22-07.51.12:105][419]AssetCheck: New page: Asset Save: Teleporter
+[2021.07.22-07.51.12:106][419]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Teleporter.Teleporter
+[2021.07.22-07.51.21:659][983]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.51.22:703][ 45]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.51.23:313][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.51.23:961][118]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter2)
+[2021.07.22-07.51.29:147][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.07.22-07.51.29:306][422]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Level08FD98EC6465594C459FD8DA921881752.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/Level0.umap'
+[2021.07.22-07.51.29:327][422]AssetCheck: New page: Asset Save: Level0
+[2021.07.22-07.51.29:327][422]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level0.Level0
+[2021.07.22-07.51.30:486][489]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.22-07.51.30:496][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.22-07.51.30:496][489]PIE: New page: PIE session: Level0 (23/07/2021, 7:51:30 am)
+[2021.07.22-07.51.30:496][489]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.51.30:533][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036103s)
+[2021.07.22-07.51.30:534][489]LogAIModule: Creating AISystem for world Level0
+[2021.07.22-07.51.30:534][489]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2021.07.22-07.51.30:534][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level0.Level0 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 (0.037372s)
+[2021.07.22-07.51.30:558][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.07.22-07.51.30:559][489]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2021.07.22-07.51.30:559][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.22-07.51.30:559][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.22-07.51.30:559][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.22-07.51.30:559][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.22-07.51.30:559][489]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.22-07.51.30:559][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.22-07.51.30:559][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.22-07.51.30:559][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.22-07.51.30:559][489]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.22-07.51.30:559][489]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.22-07.51.30:568][489]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.22-07.51.30:568][489]LogAudioMixer: Display: 1: FrontRight
+[2021.07.22-07.51.30:607][489]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.22-07.51.30:608][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.22-07.51.30:608][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.22-07.51.30:608][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.22-07.51.30:608][489]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.22-07.51.30:609][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.22-07.51.30:609][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.22-07.51.30:623][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.22-07.51.30:623][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.22-07.51.30:623][489]LogInit: FAudioDevice initialized.
+[2021.07.22-07.51.30:623][489]LogAudio: Display: Audio Device (ID: 61) registered with world 'Level0'.
+[2021.07.22-07.51.30:632][489]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.22-07.51.30:644][489]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.07.22-19.51.30
+[2021.07.22-07.51.30:644][489]LogWorld: Bringing up level for play took: 0.011161
+[2021.07.22-07.51.30:645][489]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2021.07.22-07.51.30:649][489]PIE: Server logged in
+[2021.07.22-07.51.30:649][489]PIE: Play in editor total start time 0.159 seconds.
+[2021.07.22-07.51.30:674][489]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.22-07.51.37:093][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.51.37:093][872]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.51.37:093][872]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.22-07.51.37:095][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.51.37:103][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.22-07.51.37:111][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.51.37:133][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.51.37:134][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.51.37:134][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.51.37:178][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.07.22-07.51.37:214][873]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2021.07.22-07.51.50:161][520]BlueprintLog: New page: Compile Teleporter
+[2021.07.22-07.51.50:212][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.07.22-07.51.50:758][545]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Teleporter1A22BE2643CEAF9055B067852B233508.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Teleporter.uasset'
+[2021.07.22-07.51.50:778][545]AssetCheck: New page: Asset Save: Teleporter
+[2021.07.22-07.51.50:778][545]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Teleporter.Teleporter
+[2021.07.22-07.51.56:629][780]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.22-07.51.56:641][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.22-07.51.56:641][780]PIE: New page: PIE session: Level0 (23/07/2021, 7:51:56 am)
+[2021.07.22-07.51.56:641][780]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.51.56:677][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035420s)
+[2021.07.22-07.51.56:678][780]LogAIModule: Creating AISystem for world Level0
+[2021.07.22-07.51.56:678][780]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2021.07.22-07.51.56:678][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level0.Level0 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 (0.036619s)
+[2021.07.22-07.51.56:702][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.07.22-07.51.56:703][780]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2021.07.22-07.51.56:704][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.22-07.51.56:704][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.22-07.51.56:704][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.22-07.51.56:704][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.22-07.51.56:704][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.22-07.51.56:704][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.22-07.51.56:704][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.22-07.51.56:704][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.22-07.51.56:704][780]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.22-07.51.56:704][780]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.22-07.51.56:713][780]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.22-07.51.56:713][780]LogAudioMixer: Display: 1: FrontRight
+[2021.07.22-07.51.56:749][780]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.22-07.51.56:749][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.22-07.51.56:749][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.22-07.51.56:750][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.22-07.51.56:750][780]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.22-07.51.56:750][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.22-07.51.56:750][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.22-07.51.56:765][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.22-07.51.56:765][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.22-07.51.56:765][780]LogInit: FAudioDevice initialized.
+[2021.07.22-07.51.56:765][780]LogAudio: Display: Audio Device (ID: 62) registered with world 'Level0'.
+[2021.07.22-07.51.56:775][780]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.22-07.51.56:787][780]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.07.22-19.51.56
+[2021.07.22-07.51.56:788][780]LogWorld: Bringing up level for play took: 0.011272
+[2021.07.22-07.51.56:788][780]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2021.07.22-07.51.56:792][780]PIE: Server logged in
+[2021.07.22-07.51.56:792][780]PIE: Play in editor total start time 0.157 seconds.
+[2021.07.22-07.51.56:817][780]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.22-07.52.15:392][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.52.15:393][892]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.52.15:393][892]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.22-07.52.15:394][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.52.15:402][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.22-07.52.15:411][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.52.15:432][892]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.22-07.52.15:433][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.52.15:435][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.52.15:457][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.52.15:475][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.07.22-07.52.15:503][893]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2021.07.22-07.52.22:317][297]LogEditorViewport: Clicking on Actor (LMB): Teleporter_C (Teleporter)
+[2021.07.22-07.52.25:938][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-07.52.26:278][531]Cmd: TRANSACTION UNDO
+[2021.07.22-07.52.26:278][531]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.22-07.52.36:616][134]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.22-07.52.36:625][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.22-07.52.36:625][134]PIE: New page: PIE session: Level0 (23/07/2021, 7:52:36 am)
+[2021.07.22-07.52.36:626][134]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.52.36:661][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035386s)
+[2021.07.22-07.52.36:662][134]LogAIModule: Creating AISystem for world Level0
+[2021.07.22-07.52.36:662][134]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2021.07.22-07.52.36:662][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level0.Level0 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 (0.036539s)
+[2021.07.22-07.52.36:685][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.07.22-07.52.36:688][134]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2021.07.22-07.52.36:688][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.22-07.52.36:688][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.22-07.52.36:688][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.22-07.52.36:688][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.22-07.52.36:688][134]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.22-07.52.36:688][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.22-07.52.36:688][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.22-07.52.36:688][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.22-07.52.36:688][134]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.22-07.52.36:688][134]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.22-07.52.36:696][134]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.22-07.52.36:696][134]LogAudioMixer: Display: 1: FrontRight
+[2021.07.22-07.52.36:732][134]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.22-07.52.36:733][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.22-07.52.36:733][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.22-07.52.36:733][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.22-07.52.36:733][134]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.22-07.52.36:733][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.22-07.52.36:733][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.22-07.52.36:747][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.22-07.52.36:747][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.22-07.52.36:747][134]LogInit: FAudioDevice initialized.
+[2021.07.22-07.52.36:747][134]LogAudio: Display: Audio Device (ID: 63) registered with world 'Level0'.
+[2021.07.22-07.52.36:753][134]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.22-07.52.36:764][134]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.07.22-19.52.36
+[2021.07.22-07.52.36:765][134]LogWorld: Bringing up level for play took: 0.010879
+[2021.07.22-07.52.36:765][134]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.07.22-07.52.36:769][134]PIE: Server logged in
+[2021.07.22-07.52.36:769][134]PIE: Play in editor total start time 0.15 seconds.
+[2021.07.22-07.52.36:793][134]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.22-07.53.00:713][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.53.00:713][566]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.53.00:714][566]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.22-07.53.00:715][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.53.00:723][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.22-07.53.00:731][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.53.00:751][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.53.00:752][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.53.00:753][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.53.00:793][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.07.22-07.53.00:826][567]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.07.22-07.53.05:494][841]Cmd: TRANSACTION UNDO
+[2021.07.22-07.53.05:494][841]LogEditorTransaction: Undo Set Location
+[2021.07.22-07.53.10:382][117]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.22-07.53.10:392][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.22-07.53.10:392][117]PIE: New page: PIE session: Level0 (23/07/2021, 7:53:10 am)
+[2021.07.22-07.53.10:392][117]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.53.10:428][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036296s)
+[2021.07.22-07.53.10:429][117]LogAIModule: Creating AISystem for world Level0
+[2021.07.22-07.53.10:429][117]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2021.07.22-07.53.10:429][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level0.Level0 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 (0.037502s)
+[2021.07.22-07.53.10:453][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.07.22-07.53.10:455][117]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2021.07.22-07.53.10:455][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.22-07.53.10:455][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.22-07.53.10:455][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.22-07.53.10:455][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.22-07.53.10:455][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.22-07.53.10:455][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.22-07.53.10:455][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.22-07.53.10:455][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.22-07.53.10:455][117]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.22-07.53.10:455][117]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.22-07.53.10:464][117]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.22-07.53.10:464][117]LogAudioMixer: Display: 1: FrontRight
+[2021.07.22-07.53.10:503][117]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.22-07.53.10:503][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.22-07.53.10:504][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.22-07.53.10:504][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.22-07.53.10:504][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.22-07.53.10:504][117]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.22-07.53.10:504][117]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.22-07.53.10:519][117]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.22-07.53.10:519][117]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.22-07.53.10:519][117]LogInit: FAudioDevice initialized.
+[2021.07.22-07.53.10:519][117]LogAudio: Display: Audio Device (ID: 64) registered with world 'Level0'.
+[2021.07.22-07.53.10:526][117]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.22-07.53.10:538][117]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.07.22-19.53.10
+[2021.07.22-07.53.10:538][117]LogWorld: Bringing up level for play took: 0.010892
+[2021.07.22-07.53.10:539][117]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2021.07.22-07.53.10:542][117]PIE: Server logged in
+[2021.07.22-07.53.10:543][117]PIE: Play in editor total start time 0.156 seconds.
+[2021.07.22-07.53.10:567][117]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.22-07.53.18:367][585]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.07.22-07.53.18:367][585]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.22-07.53.18:367][585]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.07.22-07.53.18:912][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.53.18:912][615]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.53.18:913][615]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.22-07.53.18:914][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.53.18:920][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.22-07.53.18:929][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.53.18:951][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.22-07.53.18:952][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.53.18:953][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.53.18:972][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.53.18:987][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.07.22-07.53.19:021][616]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2021.07.22-07.53.19:644][653]LogEditorViewport: Clicking on Actor (context menu): Base_Geometry_C (Base_Geometry71)
+[2021.07.22-07.53.20:363][692]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.22-07.53.20:373][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.22-07.53.20:373][692]PIE: New page: PIE session: Level0 (23/07/2021, 7:53:20 am)
+[2021.07.22-07.53.20:373][692]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.53.20:410][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035848s)
+[2021.07.22-07.53.20:411][692]LogAIModule: Creating AISystem for world Level0
+[2021.07.22-07.53.20:411][692]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2021.07.22-07.53.20:411][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level0.Level0 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 (0.036974s)
+[2021.07.22-07.53.20:434][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.07.22-07.53.20:435][692]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2021.07.22-07.53.20:435][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.22-07.53.20:435][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.22-07.53.20:435][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.22-07.53.20:435][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.22-07.53.20:435][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.22-07.53.20:435][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.22-07.53.20:435][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.22-07.53.20:435][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.22-07.53.20:435][692]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.22-07.53.20:435][692]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.22-07.53.20:443][692]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.22-07.53.20:443][692]LogAudioMixer: Display: 1: FrontRight
+[2021.07.22-07.53.20:479][692]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.22-07.53.20:480][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.22-07.53.20:480][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.22-07.53.20:480][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.22-07.53.20:480][692]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.22-07.53.20:480][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.22-07.53.20:480][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.22-07.53.20:494][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.22-07.53.20:494][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.22-07.53.20:494][692]LogInit: FAudioDevice initialized.
+[2021.07.22-07.53.20:494][692]LogAudio: Display: Audio Device (ID: 65) registered with world 'Level0'.
+[2021.07.22-07.53.20:500][692]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.22-07.53.20:512][692]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.07.22-19.53.20
+[2021.07.22-07.53.20:513][692]LogWorld: Bringing up level for play took: 0.011212
+[2021.07.22-07.53.20:513][692]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.07.22-07.53.20:517][692]PIE: Server logged in
+[2021.07.22-07.53.20:517][692]PIE: Play in editor total start time 0.15 seconds.
+[2021.07.22-07.53.20:542][692]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.22-07.53.27:472][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.53.27:472][106]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.53.27:472][106]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.22-07.53.27:473][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.53.27:482][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.22-07.53.27:491][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.53.27:513][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.22-07.53.27:513][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.53.27:514][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.53.27:557][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.53.27:573][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.07.22-07.53.27:607][107]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.07.22-07.53.29:538][217]LogEditorViewport: Clicking on Actor (LMB): Base_Geometry_C (Base_Geometry128)
+[2021.07.22-07.53.30:347][261]LogEditorViewport: Clicking on Actor (CTRL LMB): Base_Geometry_C (Base_Geometry113)
+[2021.07.22-07.53.31:071][303]LogEditorViewport: Clicking on Actor (CTRL LMB): Base_Geometry_C (Base_Geometry127)
+[2021.07.22-07.53.31:444][324]LogEditorViewport: Clicking on Actor (CTRL LMB): Base_Geometry_C (Base_Geometry112)
+[2021.07.22-07.53.34:826][523]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.22-07.53.34:836][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.22-07.53.34:836][523]PIE: New page: PIE session: Level0 (23/07/2021, 7:53:34 am)
+[2021.07.22-07.53.34:836][523]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.53.34:872][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035892s)
+[2021.07.22-07.53.34:874][523]LogAIModule: Creating AISystem for world Level0
+[2021.07.22-07.53.34:874][523]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2021.07.22-07.53.34:874][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level0.Level0 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 (0.037003s)
+[2021.07.22-07.53.34:898][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.07.22-07.53.34:899][523]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2021.07.22-07.53.34:899][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.22-07.53.34:899][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.22-07.53.34:899][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.22-07.53.34:899][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.22-07.53.34:899][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.22-07.53.34:899][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.22-07.53.34:899][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.22-07.53.34:899][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.22-07.53.34:900][523]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.22-07.53.34:900][523]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.22-07.53.34:908][523]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.22-07.53.34:908][523]LogAudioMixer: Display: 1: FrontRight
+[2021.07.22-07.53.34:944][523]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.22-07.53.34:944][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.22-07.53.34:944][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.22-07.53.34:945][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.22-07.53.34:945][523]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.22-07.53.34:945][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.22-07.53.34:945][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.22-07.53.34:960][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.22-07.53.34:960][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.22-07.53.34:960][523]LogInit: FAudioDevice initialized.
+[2021.07.22-07.53.34:960][523]LogAudio: Display: Audio Device (ID: 66) registered with world 'Level0'.
+[2021.07.22-07.53.34:970][523]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.22-07.53.34:981][523]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.07.22-19.53.34
+[2021.07.22-07.53.34:982][523]LogWorld: Bringing up level for play took: 0.010833
+[2021.07.22-07.53.34:982][523]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2021.07.22-07.53.34:986][523]PIE: Server logged in
+[2021.07.22-07.53.34:986][523]PIE: Play in editor total start time 0.156 seconds.
+[2021.07.22-07.53.35:012][523]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.22-07.53.55:316][741]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.07.22-07.53.55:316][741]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.22-07.53.55:316][741]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.07.22-07.53.55:662][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.53.55:662][760]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.22-07.53.55:663][760]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.22-07.53.55:664][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.53.55:675][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.22-07.53.55:684][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-07.53.55:704][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-07.53.55:706][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.53.55:707][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.22-07.53.55:743][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.07.22-07.53.55:777][761]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2021.07.22-07.54.21:966][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.07.22-07.54.22:126][248]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Level0269F29D747008135924B79B93B0C7173.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/Level0.umap'
+[2021.07.22-07.54.22:149][248]AssetCheck: New page: Asset Save: Level0
+[2021.07.22-07.54.22:150][248]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level0.Level0
