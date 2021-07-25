@@ -1255,3 +1255,427 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.25-04.44.57:772][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
 [2021.07.25-04.44.57:799][199]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2021.07.25-04.44.58:889][263]LogEditorViewport: Clicking on Actor (LMB): Base_Pickup_C (Base_Pickup29)
+[2021.07.25-04.47.58:204][658]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.25-04.47.58:215][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.25-04.47.58:215][658]PIE: New page: PIE session: Level0_3 (26/07/2021, 4:47:58 am)
+[2021.07.25-04.47.58:216][658]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0_3
+[2021.07.25-04.47.58:255][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040149s)
+[2021.07.25-04.47.58:256][658]LogAIModule: Creating AISystem for world Level0_3
+[2021.07.25-04.47.58:256][658]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2021.07.25-04.47.58:256][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level0_3.Level0_3 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0_3.Level0_3 (0.041441s)
+[2021.07.25-04.47.58:276][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.07.25-04.47.58:279][658]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.07.25-04.47.58:279][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.25-04.47.58:279][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.25-04.47.58:279][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.25-04.47.58:279][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.25-04.47.58:279][658]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.25-04.47.58:279][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.25-04.47.58:279][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.25-04.47.58:279][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.25-04.47.58:280][658]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.25-04.47.58:280][658]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.25-04.47.58:288][658]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.25-04.47.58:288][658]LogAudioMixer: Display: 1: FrontRight
+[2021.07.25-04.47.58:327][658]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.25-04.47.58:327][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.25-04.47.58:327][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.25-04.47.58:327][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.25-04.47.58:327][658]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.25-04.47.58:328][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.25-04.47.58:328][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.25-04.47.58:343][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.25-04.47.58:343][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.25-04.47.58:343][658]LogInit: FAudioDevice initialized.
+[2021.07.25-04.47.58:343][658]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level0_3'.
+[2021.07.25-04.47.58:356][658]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.25-04.47.58:366][658]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0_3.Level0_3 up for play (max tick rate 60) at 2021.07.25-16.47.58
+[2021.07.25-04.47.58:367][658]LogWorld: Bringing up level for play took: 0.009830
+[2021.07.25-04.47.58:367][658]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.07.25-04.47.58:371][658]PIE: Server logged in
+[2021.07.25-04.47.58:372][658]PIE: Play in editor total start time 0.163 seconds.
+[2021.07.25-04.47.58:398][658]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.25-04.48.02:147][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-04.48.02:147][881]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0_3
+[2021.07.25-04.48.02:148][881]LogWorld: UWorld::CleanupWorld for Level0_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.48.02:149][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.48.02:160][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.25-04.48.02:169][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.48.02:188][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-04.48.02:189][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-04.48.02:189][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-04.48.02:241][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.07.25-04.48.02:273][882]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.07.25-04.48.06:089][110]Cmd: SELECT NONE
+[2021.07.25-04.50.01:283][102]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.52.30:073][422]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_SettingsF6F2188F4F5C4CA90ABFA3BA937A89F0.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.52.30:096][422]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.52.30:096][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.52.30:745][461]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.52.30:824][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.07.25-04.53.16:222][347]LogEditorViewport: Clicking on Actor (LMB): Token (Token1)
+[2021.07.25-04.53.32:473][589]LogEditorTransaction: Undo Move Node
+[2021.07.25-04.53.51:891][578]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.53.51:930][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.07.25-04.53.52:425][603]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings607F31B64668F8601F7D92AB31F1F0D8.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.53.52:445][603]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.53.52:445][603]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.53.54:563][726]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.25-04.53.54:574][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.25-04.53.54:574][726]PIE: New page: PIE session: Level0_3 (26/07/2021, 4:53:54 am)
+[2021.07.25-04.53.54:574][726]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0_3
+[2021.07.25-04.53.54:611][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036867s)
+[2021.07.25-04.53.54:612][726]LogAIModule: Creating AISystem for world Level0_3
+[2021.07.25-04.53.54:612][726]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2021.07.25-04.53.54:612][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level0_3.Level0_3 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0_3.Level0_3 (0.038082s)
+[2021.07.25-04.53.54:643][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.07.25-04.53.54:645][726]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.07.25-04.53.54:645][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.25-04.53.54:645][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.25-04.53.54:645][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.25-04.53.54:645][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.25-04.53.54:645][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.25-04.53.54:645][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.25-04.53.54:645][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.25-04.53.54:645][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.25-04.53.54:645][726]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.25-04.53.54:645][726]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.25-04.53.54:654][726]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.25-04.53.54:654][726]LogAudioMixer: Display: 1: FrontRight
+[2021.07.25-04.53.54:692][726]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.25-04.53.54:692][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.25-04.53.54:692][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.25-04.53.54:692][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.25-04.53.54:693][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.25-04.53.54:693][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.25-04.53.54:693][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.25-04.53.54:709][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.25-04.53.54:709][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.25-04.53.54:709][726]LogInit: FAudioDevice initialized.
+[2021.07.25-04.53.54:709][726]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level0_3'.
+[2021.07.25-04.53.54:719][726]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.25-04.53.54:730][726]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0_3.Level0_3 up for play (max tick rate 60) at 2021.07.25-16.53.54
+[2021.07.25-04.53.54:730][726]LogWorld: Bringing up level for play took: 0.010235
+[2021.07.25-04.53.54:730][726]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.07.25-04.53.54:734][726]PIE: Server logged in
+[2021.07.25-04.53.54:735][726]PIE: Play in editor total start time 0.167 seconds.
+[2021.07.25-04.53.54:761][726]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.25-04.53.55:778][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-04.53.55:778][785]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0_3
+[2021.07.25-04.53.55:778][785]LogWorld: UWorld::CleanupWorld for Level0_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.53.55:780][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.53.55:791][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.25-04.53.55:808][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.53.55:834][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-04.53.55:834][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-04.53.55:835][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-04.53.55:870][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-04.53.55:885][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.07.25-04.53.55:920][786]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.07.25-04.54.00:031][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.07.25-04.54.00:059][ 23]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.07.25-04.54.00:100][ 23]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.25-04.54.00:100][ 23]LightingResults: New page: Lighting Build
+[2021.07.25-04.54.00:100][ 23]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.07.25-04.54.00:133][ 23]LogWorld: UWorld::CleanupWorld for Level0_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.54.00:133][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.54.00:133][ 23]MapCheck: New page: Map Check
+[2021.07.25-04.54.00:133][ 23]LightingResults: New page: Lighting Build
+[2021.07.25-04.54.00:160][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-04.54.00:177][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.07.25-04.54.00:177][ 23]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.07.25-04.54.00:269][ 23]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.25-04.54.00:269][ 23]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.25-04.54.00:299][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.07.25-04.54.00:304][ 23]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.25-04.54.00:304][ 23]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2021.07.25-04.54.00:304][ 23]LogFileHelpers: Loading map 'MainMenu' took 0.245
+[2021.07.25-04.54.00:954][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.25-04.54.00:965][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.25-04.54.00:965][ 61]PIE: New page: PIE session: MainMenu (26/07/2021, 4:54:00 am)
+[2021.07.25-04.54.00:965][ 61]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.07.25-04.54.00:966][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001093s)
+[2021.07.25-04.54.00:967][ 61]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.25-04.54.00:967][ 61]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2021.07.25-04.54.00:967][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMenu.MainMenu to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002198s)
+[2021.07.25-04.54.00:995][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.07.25-04.54.00:995][ 61]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.07.25-04.54.00:995][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.25-04.54.00:995][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.25-04.54.00:996][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.25-04.54.00:996][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.25-04.54.00:996][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.25-04.54.00:996][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.25-04.54.00:996][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.25-04.54.00:996][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.25-04.54.00:996][ 61]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.25-04.54.00:996][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.25-04.54.01:004][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.25-04.54.01:004][ 61]LogAudioMixer: Display: 1: FrontRight
+[2021.07.25-04.54.01:043][ 61]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.25-04.54.01:043][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.25-04.54.01:043][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.25-04.54.01:043][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.25-04.54.01:044][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.25-04.54.01:044][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.25-04.54.01:044][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.25-04.54.01:060][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.25-04.54.01:060][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.25-04.54.01:060][ 61]LogInit: FAudioDevice initialized.
+[2021.07.25-04.54.01:060][ 61]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenu'.
+[2021.07.25-04.54.01:069][ 61]LogLoad: Game class is 'MainMenuGamemode_C'
+[2021.07.25-04.54.01:071][ 61]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.07.25-16.54.01
+[2021.07.25-04.54.01:071][ 61]LogWorld: Bringing up level for play took: 0.000284
+[2021.07.25-04.54.01:071][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.07.25-04.54.01:123][ 61]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.07.25-04.54.01:123][ 61]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.25-04.54.01:123][ 61]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.07.25-04.54.01:124][ 61]PIE: Server logged in
+[2021.07.25-04.54.01:124][ 61]PIE: Play in editor total start time 0.165 seconds.
+[2021.07.25-04.54.02:477][142]Cmd: r.setres 720x480
+[2021.07.25-04.54.02:477][142]r.SetRes = "720x480"
+[2021.07.25-04.54.04:677][274]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.07.25-04.54.04:677][274]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.07.25-04.54.04:678][274]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level0
+[2021.07.25-04.54.04:678][274]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level0
+[2021.07.25-04.54.04:678][274]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu
+[2021.07.25-04.54.04:679][274]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.54.04:679][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.54.04:727][274]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-04.54.04:730][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.07.25-04.54.05:138][274]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level0'.
+[2021.07.25-04.54.05:138][274]LogAIModule: Creating AISystem for world Level0
+[2021.07.25-04.54.05:139][274]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.25-04.54.05:239][274]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2021.07.25-16.54.05
+[2021.07.25-04.54.05:239][274]LogWorld: Bringing up level for play took: 0.099200
+[2021.07.25-04.54.05:241][274]LogLoad: Took 0.562573 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level0)
+[2021.07.25-04.54.05:243][274]LogAudio: Warning: Detected orphaned looping sound 'BackgroundMusic_Cue'.
+[2021.07.25-04.54.06:798][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-04.54.06:798][361]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level0
+[2021.07.25-04.54.06:799][361]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.54.06:801][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.54.06:810][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.25-04.54.06:815][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.54.06:845][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-04.54.06:845][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-04.54.06:846][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.25-04.54.06:879][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.25-04.54.06:908][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.07.25-04.54.06:929][362]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.07.25-04.54.16:215][895]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings557BD571410D4A48C562398EAE49E6B0.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.54.16:234][895]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.54.16:234][895]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.54.32:236][507]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings72242D894FAC4FBB7342E2B50ABB961F.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.54.32:255][507]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.54.32:255][507]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.54.43:493][701]LogSlate: Window 'Widget_Settings' being destroyed
+[2021.07.25-04.54.43:507][701]LogSlate: Window 'Widget_Settings' being destroyed
+[2021.07.25-04.54.43:635][701]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.54.43:635][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.54.43:646][701]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.54.43:646][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.54.46:068][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.07.25-04.55.59:323][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.07.25-04.55.59:331][899]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MainMenu236F7D234CBCC97AB0DD4CABFF77B506.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2021.07.25-04.55.59:354][899]AssetCheck: New page: Asset Save: MainMenu
+[2021.07.25-04.55.59:354][899]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.07.25-04.56.06:572][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.25-04.56.06:595][293]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.07.25-04.56.06:595][293]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.25-04.56.06:596][293]LightingResults: New page: Lighting Build
+[2021.07.25-04.56.06:596][293]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.07.25-04.56.06:597][293]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.56.06:597][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.56.06:597][293]MapCheck: New page: Map Check
+[2021.07.25-04.56.06:597][293]LightingResults: New page: Lighting Build
+[2021.07.25-04.56.06:614][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.25-04.56.06:616][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.07.25-04.56.06:622][293]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.07.25-04.56.06:623][293]LogAIModule: Creating AISystem for world MainMenu
+[2021.07.25-04.56.06:705][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.25-04.56.06:724][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.07.25-04.56.06:729][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.25-04.56.06:729][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2021.07.25-04.56.06:729][293]LogFileHelpers: Loading map 'MainMenu' took 0.134
+[2021.07.25-04.56.09:280][441]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.56.19:089][996]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.56.19:117][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.07.25-04.56.19:738][ 27]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings32A300AF4485E65A019D3E8B5CD08737.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.56.19:757][ 27]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.56.19:757][ 27]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.56.35:291][925]LogSlate: Took 0.017706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.25-04.56.46:368][563]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings3760C11048F32078BB89179E0DA5CA77.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.56.46:385][563]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.56.46:385][563]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.56.47:334][620]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.56.47:377][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.07.25-04.56.47:836][644]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_SettingsE70D84B84BE62C89956F1099D11D8AD6.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.56.47:855][644]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.56.47:855][644]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.56.49:735][756]LogSlate: Window 'Widget_Settings' being destroyed
+[2021.07.25-04.56.49:755][756]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.56.49:755][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.56.49:764][756]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-04.56.49:764][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-04.56.51:088][827]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.57.58:253][747]LogEditorTransaction: Undo Delete current selection
+[2021.07.25-04.58.03:062][889]LogSlate: Window 'Delete Variable' being destroyed
+[2021.07.25-04.58.08:417][200]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings7AC750F84CEC932CBBF4E59B9645BA49.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.58.08:434][200]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.58.08:434][200]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.58.16:125][651]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings6A305A2E461216C5A01145A19402FB07.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.58.16:142][651]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.58.16:142][651]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.58.42:335][171]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings5DD4BED54CE0739B6B85F899ED6B4E71.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.58.42:352][171]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.58.42:352][171]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.58.48:323][501]LogSlate: Took 0.089633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.07.25-04.59.11:578][867]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.59.11:626][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.07.25-04.59.15:046][ 68]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.59.15:078][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.07.25-04.59.15:734][103]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings8D3C95C540052FDF29BECB835729CB83.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.59.15:754][103]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.59.15:754][103]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.59.19:822][340]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings086D9ABF48E1F2C69C5396A6AA82D793.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.59.19:840][340]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.59.19:840][340]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.59.21:189][421]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.59.21:234][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.07.25-04.59.23:414][547]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_SettingsBE8E067A42D02339FCA988BBDCD6509E.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.59.23:434][547]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.59.23:434][547]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.59.24:059][584]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.59.24:101][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.07.25-04.59.24:479][603]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_SettingsE3C9B63D41F78FFDD3E6E6AF8AE36071.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.59.24:497][603]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.59.24:497][603]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.59.30:180][934]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-04.59.30:224][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.07.25-04.59.30:648][956]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings2AF68ECE44978182CF2B4A8A2D395FCE.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.59.30:667][956]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.59.30:667][956]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-04.59.56:909][511]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_SettingsF14F34324D386C43706F91AC8B306073.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-04.59.56:926][511]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-04.59.56:927][511]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.00.05:134][  0]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings6842A3EA4EF54941AB1F8A808A4CC341.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.00.05:154][  0]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.00.05:154][  0]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.00.06:432][ 74]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.00.06:478][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.07.25-05.00.06:938][ 97]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings9F8D139C4FEFBC17CB11FCAFE42F2210.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.00.06:957][ 97]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.00.06:957][ 97]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.00.08:933][213]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.00.08:963][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.07.25-05.01.03:192][698]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.01.03:224][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.07.25-05.01.03:646][719]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings1AC5B84141EADD52C1F81CBB1EDA6CE4.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.01.03:664][719]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.01.03:664][719]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.01.04:541][769]LogSlate: Window 'Widget_Settings' being destroyed
+[2021.07.25-05.01.04:551][769]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.01.04:551][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.01.04:560][769]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.01.04:560][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.01.05:355][814]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.01.05:384][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.07.25-05.01.28:082][973]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.01.40:210][663]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings89238C244C799B531ECDAC950645852A.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.01.40:229][663]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.01.40:229][663]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.01.40:863][700]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.01.40:905][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.07.25-05.01.43:163][834]LogSlate: Window 'Widget_Settings' being destroyed
+[2021.07.25-05.01.43:185][834]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.01.43:185][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.01.43:192][834]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.01.43:192][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.01.44:161][890]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.01.44:188][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.07.25-05.02.41:373][359]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Base_Player_Character.Base_Player_Character
+[2021.07.25-05.03.11:930][ 15]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.03.11:958][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.07.25-05.03.14:946][ 15]LogSlate: Window 'Save Content' being destroyed
+[2021.07.25-05.03.15:081][ 15]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Player_Character0AC046764A8499B2A0365B88DD910942.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Player_Character.uasset'
+[2021.07.25-05.03.15:105][ 16]AssetCheck: New page: Asset Save: Base_Player_Character
+[2021.07.25-05.03.15:106][ 16]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Player_Character.Base_Player_Character
+[2021.07.25-05.03.37:864][412]BlueprintLog: New page: Compile Base_Player_Character
+[2021.07.25-05.03.37:940][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.07.25-05.03.39:179][473]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Base_Player_Character62D0A48F4DE02691838386A174DB3597.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Base_Player_Character.uasset'
+[2021.07.25-05.03.39:200][473]AssetCheck: New page: Asset Save: Base_Player_Character
+[2021.07.25-05.03.39:200][473]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Base_Player_Character.Base_Player_Character
+[2021.07.25-05.03.40:330][539]LogSlate: Window 'Base_Player_Character' being destroyed
+[2021.07.25-05.03.40:346][539]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.03.40:347][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.03.43:586][728]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.06.06:943][115]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.06.06:980][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.07.25-05.06.07:600][148]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings287E690B4AA78D0928C1368B643F14D2.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.06.07:620][148]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.06.07:620][148]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.06.11:713][325]LogSlate: Window 'Delete Variable' being destroyed
+[2021.07.25-05.06.12:329][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.07.25-05.06.12:335][357]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MainMenu6DF6205847F556490BAC89B810EAD313.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2021.07.25-05.06.12:353][357]AssetCheck: New page: Asset Save: MainMenu
+[2021.07.25-05.06.12:353][357]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.07.25-05.06.12:799][384]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.06.12:839][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.07.25-05.06.17:674][669]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings1C60C5674A1B4BBD1C6B7A8347B706EE.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.06.17:691][669]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.06.17:691][669]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.06.24:427][ 65]LogEditorTransaction: Undo Move Nodes
+[2021.07.25-05.06.29:898][369]LogEditorTransaction: Undo Paste clipboard contents
+[2021.07.25-05.06.46:398][316]LogEditorTransaction: Undo Paste clipboard contents
+[2021.07.25-05.07.09:956][682]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.07.10:001][682]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.07.25-05.07.13:308][872]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.07.13:351][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.07.25-05.07.13:682][888]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_SettingsC5939B1942EA85BF4D2314BFA8804588.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.07.13:702][888]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.07.13:702][888]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.07.25:205][560]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.07.25:250][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.07.25-05.07.25:661][580]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_SettingsE1D38FE94C1ED7874BF7AAA5BFE35DBD.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.07.25:680][580]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.07.25:680][580]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.07.26:484][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.07.25-05.07.26:489][626]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/MainMenuBCFEE5404887C2B735D4659A7C8A537F.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Maps/MainMenu.umap'
+[2021.07.25-05.07.26:505][626]AssetCheck: New page: Asset Save: MainMenu
+[2021.07.25-05.07.26:505][626]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMenu.MainMenu
+[2021.07.25-05.07.30:490][857]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.07.30:517][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.07.25-05.10.31:149][672]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings0A4881B448ACB38EA546CFB40A2ADE52.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.10.31:167][672]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.10.31:167][672]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.10.35:063][903]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.10.35:109][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.07.25-05.10.35:522][924]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_SettingsD0C9812D4CDF55084764FBA8F4B02416.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.10.35:539][924]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.10.35:539][924]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.10.37:532][ 41]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.10.37:561][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.07.25-05.14.51:398][555]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.14.51:434][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.07.25-05.14.51:858][576]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings8B0C423C470287FD83CD0BBD4C3E83AE.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.14.51:878][576]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.14.51:878][576]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.14.54:172][709]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.14.54:203][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.07.25-05.16.35:178][367]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings507F2A294CC4B7F2B25A4DB6AA1C0542.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.16.35:198][367]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.16.35:198][367]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.16.35:775][400]BlueprintLog: New page: Compile Widget_Settings
+[2021.07.25-05.16.35:820][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.07.25-05.16.36:246][421]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Saved/Widget_Settings8B52E06042D35C6051A80697A1F8203A.tmp' to '../../../../../Documents/Unreal Projects/StartingWithUnreal/PacManProject/Content/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.uasset'
+[2021.07.25-05.16.36:263][421]AssetCheck: New page: Asset Save: Widget_Settings
+[2021.07.25-05.16.36:263][421]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/Widget_Settings.Widget_Settings
+[2021.07.25-05.16.38:775][565]LogSlate: Window 'Widget_Settings' being destroyed
+[2021.07.25-05.16.38:831][565]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.16.38:831][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.16.38:838][565]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.07.25-05.16.38:838][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.25-05.16.39:790][618]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.16.39:820][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.07.25-05.18.16:187][779]LogTemp: Repeating last play command: Standalone Game
+[2021.07.25-05.18.16:213][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
