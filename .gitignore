@@ -1,2 +1,10 @@
 
+# ignore the vs directory
+.vs/
+
+# ignore large files
+TOKEN.ipch
+SharedPCH.Engine.ShadowErrors.h.pch
+
+# test demo
 demonstrating_git_ignore.txt
