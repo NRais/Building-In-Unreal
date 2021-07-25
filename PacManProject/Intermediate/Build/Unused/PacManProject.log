@@ -1,0 +1,30 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\Unreal Projects\StartingWithUnreal).
+  Building PacManProjectEditor...
+  Using Visual Studio 2019 14.29.30038 toolchain (D:\Program Files\VisualStudio\VC\Tools\MSVC\14.29.30037) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 10 actions with 12 processes...
+    [1/10] SharedPCH.Engine.ShadowErrors.cpp
+    [2/10] FloatingActor.gen.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+    [3/10] FloatingActor.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+    [4/10] Token.cpp
+c1xx : error C3859: Failed to create virtual memory for PCH
+    c1xx: note: the system returned code 1455: The paging file is too small for this operation to complete.
+    
+    
+    c1xx: note: please visit https://aka.ms/pch-help for more details
+c1xx : fatal error C1076: compiler limit: internal heap limit reached
+    [5/10] PacManProject.cpp
+    [6/10] PacManProject.init.gen.cpp
+    [7/10] Token.gen.cpp
+D:\Program Files\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""D:\Program Files\UE_4.26\Engine\Build\BatchFiles\Build.bat" PacManProjectEditor Win64 Development -Project="D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\PacManProject.uproject" -WaitMutex -FromMsBuild" exited with code 6.

@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PacManProject-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\PacManProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\FloatingActor.cpp.obj"
+"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\PacManProject.cpp.obj"
+"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\Token.cpp.obj"
+"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\FloatingActor.gen.cpp.obj"
+"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\PacManProject.init.gen.cpp.obj"
+"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\Token.gen.cpp.obj"
+"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\Default.rc2.res"
+/OUT:"D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\UE4Editor-PacManProject-0010.lib"
+/INCLUDE:IMPLEMENT_MODULE_PacManProject

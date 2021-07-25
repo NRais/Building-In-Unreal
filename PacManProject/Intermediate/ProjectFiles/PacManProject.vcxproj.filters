@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PacManProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{13F456EA-F2E3-42B7-8350-C19AD4060E35}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PacManProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PacManProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Notes.md" />
+    <None Include="..\..\Readme.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{B348EE50-58EE-4969-938B-282551C02205}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PacManProject">
+      <UniqueIdentifier>{64F74A27-0A21-472B-8697-FE65ED505B9D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PacManProject\FloatingActor.cpp">
+      <Filter>Source\PacManProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PacManProject\FloatingActor.h">
+      <Filter>Source\PacManProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PacManProject\PacManProject.Build.cs">
+      <Filter>Source\PacManProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PacManProject\PacManProject.cpp">
+      <Filter>Source\PacManProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PacManProject\PacManProject.h">
+      <Filter>Source\PacManProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PacManProject\Token.cpp">
+      <Filter>Source\PacManProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PacManProject\Token.h">
+      <Filter>Source\PacManProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PacManProject",
+			"Path": "D:\\Documents\\Unreal Projects\\StartingWithUnreal\\PacManProject\\Source\\PacManProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PacManProjectEditor",
+			"Path": "D:\\Documents\\Unreal Projects\\StartingWithUnreal\\PacManProject\\Source\\PacManProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

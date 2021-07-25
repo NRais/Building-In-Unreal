@@ -1,0 +1,2 @@
+D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Intermediate\Build\Win64\UE4Editor\Development\PacManProject\Definitions.PacManProject.h
+D:\Documents\Unreal Projects\StartingWithUnreal\PacManProject\Source\PacManProject\PacManProject.h
