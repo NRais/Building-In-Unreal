@@ -1,8 +1,20 @@
+
+<img src="https://github.com/NRais/Building-In-Unreal/blob/main/PacManProject/Readme/intro.jpg" width="200" height="180" />
+
 # What is the main action in the game 
 
 Pac Madman is a game built around running from ghosts and collecting powerups. Designed with a topdown camera this game has the feel of many traditional 3rd person games with the intensity and thrill of interaction and levels.
 
 Pac Madman adds to the action of the traditional arcade game with unique map environments, enemies and powerups to add a variety to the levels and more strategy.
+
+- Control system (Player choices and level design)
+  - Level progression (8 unique levels)
+  - Maze-style maps
+  - Powerups (4 unique pickups)
+  - NPC design (unique AI)
+- Score tracker
+- Limited respawns (after 3 deaths you have to restart from the beginning)
+
 
 # What was the hardest part of the game to get working in Unreal
 
